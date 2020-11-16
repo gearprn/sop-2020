@@ -1,5 +1,5 @@
 # E-commerce-Module Authentication (by Pittaya)
-Try learning microservices architecture!
+เป็นส่วนที่ใช้ในการตรวจสอบผู้ที่เข้าใช้งานระบบ E-commerce โดยระบบจะทำการตรวจสอบจาก username และ password ว่าถูกต้องหรือไม่
 
 # Product Service
 - ลงทะเบียนเข้าใช้งาน
